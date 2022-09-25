@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **HTML, CSS and Javascript,**
 
-- 📫 How to reach me **ini.e.sendy@gmail.com**
+- 📫 How to reach me **sendyinieke@gmail.com**
 
 - ⚡ Fun fact **I love playing chess**
 
