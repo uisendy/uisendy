@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **ReactJs**
 
-- 👨‍💻 All of my projects are available at [https://uisendy.github.io/personal-portfolio/](https://uisendy.github.io/personal-portfolio/)
+- 👨‍💻 All of my projects are available at [https://sendyinieke.netlify.app/](https://sendyinieke.netlify.app/)
 
 - 💬 Ask me about **HTML, CSS and Javascript,**
 
