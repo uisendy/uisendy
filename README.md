@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sendy Inieke</h1>
-<h3 align="center">A passionate Junior frontend developer from Nigeria</h3>
+<h3 align="center">Software developer from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uisendy&label=Profile%20views&color=0e75b6&style=flat" alt="uisendy" /> </p>
 
